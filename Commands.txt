@@ -1,0 +1,54 @@
+hello
+hello veronica
+goodbye
+goodbye veronica
+close
+close veronica
+open program
+close program
+what time is it
+what day is it
+whats todays date
+go fullscreen
+exit fullscreen
+switch window
+out of the way 
+come back
+show commands
+hide commands
+open google
+open facebook
+shutdown
+log off
+restart
+abort
+open itunes
+close itunes
+switch to itunes
+play
+pause
+go back
+next song
+turn up
+turn down
+close firefox
+open firefox
+speed up
+slow down
+load music directory
+load video directory
+load picture directory
+browse for directory
+reset
+introduce yourself
+eject
+crack a joke
+i am tired
+bored
+good night
+very good
+awesome
+excellent
+your awesome
+close chrome
+open chrome

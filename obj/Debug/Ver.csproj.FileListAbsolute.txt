@@ -1,0 +1,13 @@
+D:\Veronica\Ver\Ver\bin\Debug\Ver.exe.config
+D:\Veronica\Ver\Ver\bin\Debug\Ver.exe
+D:\Veronica\Ver\Ver\bin\Debug\Ver.pdb
+D:\Veronica\Ver\Ver\obj\Debug\Ver.Form1.resources
+D:\Veronica\Ver\Ver\obj\Debug\Ver.Properties.Resources.resources
+D:\Veronica\Ver\Ver\obj\Debug\Ver.csproj.GenerateResource.Cache
+D:\Veronica\Ver\Ver\obj\Debug\Ver.exe
+D:\Veronica\Ver\Ver\obj\Debug\Ver.pdb
+D:\Veronica\Ver\Ver\obj\Debug\Ver.csprojResolveAssemblyReference.cache
+D:\Veronica\Ver\Ver\obj\Debug\Ver.Login.resources
+E:\Veronica\Ver\Ver\bin\Debug\Ver.exe.config
+E:\Veronica\Ver\Ver\obj\Debug\Ver.exe
+E:\Veronica\Ver\Ver\obj\Debug\Ver.pdb
